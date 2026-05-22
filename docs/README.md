@@ -1,4 +1,4 @@
-# 📚 Workshop Documentation
+#  Workshop Documentation
 
 This folder contains reference material for the **LISA CosWG Computing Bootcamp 2026**.
 
